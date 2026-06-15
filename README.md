@@ -9,12 +9,24 @@ Este repositorio contiene un proyecto de Machine Learning de extremo a extremo e
 
 ## 📌 Project Overview / Descripción del Proyecto
 
-- **Objective / Objetivo:** Build a predictive classification model to determine whether a future customer will be satisfied or dissatisfied with their flight experience, pinpointing the most critical drivers of satisfaction.
-- **Data / Datos:** 129,880 customer survey responses evaluating features such as seat comfort, flight distance, online booking ease, and inflight entertainment.
-- **Core Skills / Habilidades Clave:** * Exploratory Data Analysis (EDA) & Data Cleaning.
-  * Decision Tree Classification (`scikit-learn`).
-  * Hyperparameter Tuning via `GridSearchCV` (evaluating 1,380 combinations).
-  * Model evaluation using Confusion Matrices, Accuracy, Precision, Recall, and F1-score.
+* **Objective / Objetivo:**
+  * **EN:** Build a predictive classification model to determine whether a future customer will be satisfied or dissatisfied with their flight experience, pinpointing the most critical drivers of satisfaction.
+  * **ES:** Construir un modelo de clasificación predictivo para determinar si un futuro cliente estará satisfecho o insatisfecho con su experiencia de vuelo, identificando los factores más críticos de la satisfacción.
+  
+* **Data / Datos:**
+  * **EN:** 129,880 customer survey responses evaluating features such as seat comfort, flight distance, online booking ease, and inflight entertainment.
+  * **ES:** Respuestas de encuestas de 129,880 clientes que evalúan características como la comodidad del asiento, la distancia del vuelo, la facilidad de la reserva en línea y el entretenimiento a bordo.
+
+* **Core Skills / Habilidades Clave:**
+  * **EN:** * Exploratory Data Analysis (EDA) & Data Cleaning.
+    * Decision Tree Classification (`scikit-learn`).
+    * Hyperparameter Tuning via `GridSearchCV` (evaluating 1,380 combinations).
+    * Model evaluation using Confusion Matrices, Accuracy, Precision, Recall, and F1-score.
+  * **ES:**
+    * Análisis Exploratorio de Datos (EDA) y Limpieza de Datos.
+    * Clasificación con Árboles de Decisión (`scikit-learn`).
+    * Ajuste de Hiperparámetros mediante `GridSearchCV` (evaluando 1,380 combinaciones).
+    * Evaluación del modelo utilizando Matrices de Confusión, Exactitud (Accuracy), Precisión, Exhaustividad (Recall) y Puntuación F1.
 
 ---
 
