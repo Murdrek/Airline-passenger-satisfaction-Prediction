@@ -62,7 +62,18 @@ A través de una rigurosa validación cruzada y ajuste de hiperparámetros ($max
   * *Acción:* Dividir esfuerzos entre operaciones (asegurar la ergonomía del asiento) y el equipo de software (simplificar interfaces web/móvil para eliminar fricción antes de abordar).
 
 ### 🤖 3. Predictive CRM Deployment / Despliegue de un CRM Predictivo
-* **EN:** Our classifier delivers an exceptionally high **Precision of 95.13%**. This means when the model flags a customer segment as "satisfied," the business can trust that prediction with immense confidence.
+* **EN:** Our classifier delivers an exceptionally high **Precision of 95.13%**. This means when the model flags a customer segment as "satisfied," the business can trust that prediction * with immense confidence.
+
+## 📁 Project Structure / Estructura del Proyecto
+
+```text
+Airline-passenger-satisfaction-Prediction/
+├── 📁 Code/          # Production Python scripts for model execution / Scripts de producción en Python
+├── 📁 Data/          # Raw airline passenger datasets / Conjuntos de datos crudos de pasajeros
+├── 📁 Docs/          # Executive bilingüe reports and business documentation (PDF) / Informes ejecutivos
+├── 📁 Notebook/      # Optimized Jupyter Notebooks for experimentation / Notebooks de experimentación
+└── 📄 README.md      # Project documentation and landing page / Documentación principal del repositorio
+  
   * *Action:* Integrate the model into the CRM system. Automatically target predicted high-satisfaction segments for premium loyalty programs, or proactively flag groups at risk of dissatisfaction for automated apology miles, surveys, or targeted service recovery.
 * **ES:** Nuestro clasificador optimizado ofrece una **Precisión excepcional del 95.13%**. Esto significa que cuando el modelo etiqueta a un segmento de clientes como "satisfecho", la empresa puede confiar plenamente en esa predicción.
   * *Acción:* Integrar este modelo dentro del sistema de gestión de clientes (CRM). Identificar automáticamente a grupos altamente satisfechos para programas premium, o detectar segmentos en riesgo de insatisfacción para ofrecerles compensaciones proactivas (como millas o beneficios).
